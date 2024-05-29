@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is dedicated to Computer Science projects related to low-level systems programming with C and Assembly. It encompasses both theory and practical examples of creating systems applications, while exploring how a computer system works under the hood. 
+This repository is dedicated to Computer Science projects related to low-level systems programming with C and Assembly. It encompasses both theory and practical examples of creating systems applications, while exploring how a computer system works under the hood.
 
 ## Topics Covered
 
